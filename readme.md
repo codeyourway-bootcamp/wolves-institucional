@@ -17,7 +17,7 @@
    <li>Ana Emilly</li> 
     </ul>
     <h3> Link Trello: </h3>
-    <a href= "https://trello.com/invite/b/WlDPzGOp/ATTI488ef028dab7d66887062402a3e1b7bfB4EC9F84/🐺-grupo-wolves">
+    <a href= "https://trello.com/invite/b/WlDPzGOp/ATTI488ef028dab7d66887062402a3e1b7bfB4EC9F84/🐺-grupo-wolves"
     </a>
 </body>
 </html>
