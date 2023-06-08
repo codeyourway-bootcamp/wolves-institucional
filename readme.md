@@ -10,12 +10,14 @@
    <h1> LY & CO PROJETO </h1>
     <h2>Site da loja Ly & Co</h2>
     <ul>
-   <li> integrantes:</li>
+        <h2> integrantes:</h2>
     <li>Letícia</li>   
      <li>Jaklim</li>  
     <li>Amário</li> 
    <li>Ana Emilly</li> 
     </ul>
-    <a> Link Trello: https://trello.com/invite/b/WlDPzGOp/ATTI488ef028dab7d66887062402a3e1b7bfB4EC9F84/🐺-grupo-wolves </a>
+    <h2> Integrantes: </h2>
+    <a href= "https://trello.com/invite/b/WlDPzGOp/ATTI488ef028dab7d66887062402a3e1b7bfB4EC9F84/🐺-grupo-wolves">
+    </a>
 </body>
 </html>
