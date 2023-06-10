@@ -1,10 +1,20 @@
 header {
-    background-color: #d1829a;
+    background-color: #f0dbdb;
     height: 500px;
     width: 800px;
     border-radius: 20px;
     display:flex;
-    justify-content: center;
     flex-direction: column;
-    align-items: center;
+}
+h1 {
+    color: #dba39a;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: flex-end;
+    color: #dba39a;
+}
+body {
+background-color: #f0dbdb;
 }
