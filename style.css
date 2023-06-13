@@ -1,0 +1,20 @@
+body{
+    background-image: url(./Home.png) ;
+}
+.logo-lyco { 
+    color: #FFEDDB;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.slogan{
+    color: #FFEDDB;
+    text-align: center;
+}
+
+.logo-principal {
+    color: #FFEDDB;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 120px;
+}
