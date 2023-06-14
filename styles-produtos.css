@@ -5,9 +5,9 @@ body{
 }
 
 .titulo-pagina-produtos{
-    font-family: 'Satisfy', cursive;
+    font-family:  'satisfy', cursive;
     font-size: 60px;
-    padding: 5%;
+    padding: 2%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,8 +18,10 @@ body{
 
 .lista-de-produtos {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     list-style-type: none;
+    flex-wrap: wrap;
+    padding: 1% 1%;
 }
 
 ul .imagem-produto{
@@ -51,4 +53,10 @@ ul .imagem-produto figcaption {
 
 ul .imagem-produto:hover figcaption{
     opacity: 1;
+}
+
+.imagem-homem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
