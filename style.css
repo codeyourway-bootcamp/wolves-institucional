@@ -28,7 +28,7 @@ body{
     color: #FFEDDB;
     position: absolute;
     bottom: 0;
-    background-color: rgb(200, 85, 90);
+    background-color: rgb(176, 78, 83);
     width: 100%;
     height: 50px;    
     text-align: center;
@@ -37,10 +37,25 @@ body{
 
 .botoes-home {
     list-style: none;
-    font-size: large;
+    font-size: large;   
     color: #FFEDDB;
     display: flex;
     justify-content: space-around;
-    background-color: coral;
-    border-radius: 50%;
+}
+
+li {
+    background-color: rgb(255, 144, 89);
+    border-radius: 50px;
+    border:#FFEDDB;
+    width: 11%;
+    padding-left: 50px;
+    padding-right: 0%;
+}
+
+.botao-nossasp{
+    padding-right: 30px;
+}
+
+.botao-contato {
+    padding-left: 35px;
 }
