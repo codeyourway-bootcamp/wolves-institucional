@@ -1,9 +1,11 @@
 body{
     background-image: url(./Home.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .logo-lyco { 
     color: #FFEDDB;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: url ('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap') ;
 
 }
 
@@ -14,7 +16,7 @@ body{
 
 .logo-principal {
     color: #FFEDDB;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap') ;
     text-align: center;
     font-size: 120px;
 }
