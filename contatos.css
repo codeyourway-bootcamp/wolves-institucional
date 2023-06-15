@@ -1,0 +1,25 @@
+h1{
+  color:white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family:'Playfair Display', serif;
+  font-size: 70px;
+
+}
+body{
+    background-image:url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 120%;
+
+    font-size: 60px;
+    font-family: monospace;}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+color:white;
+display: flex;
+align-items: center;
+justify-content:center;
+}
