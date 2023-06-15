@@ -9,6 +9,18 @@ header{
     margin-top: 0;
     margin-bottom:0 ;
 }
+.navegacao-link{
+padding: 4px;
+list-style-type:none;
+}
+
+.navegacao{
+    padding: 1%;
+    display: flex;
+    justify-content:flex-end;
+    
+    
+}
 .cabecalho{
     display: flex;
     align-items: center;
