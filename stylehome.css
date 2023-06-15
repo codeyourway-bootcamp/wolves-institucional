@@ -1,0 +1,48 @@
+body{
+    background-image: url(./Home.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo-lyco {
+    font-family: url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap'); 
+    background-color:#ff595971;
+    width: 100px;
+    border-radius: 20px;
+    color: #FFEDDB;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.slogan{
+    color: #FFEDDB;
+    text-align: center;
+    font-family: url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+}
+
+.logo-principal {
+    color: #FFEDDB;
+    font-family:
+    url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+    text-align: center;
+    font-size: 120px;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    color: #FFEDDB;
+    font-size: large;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #ff595971;
+    color:#FFEDDB;
+    width: 100%;
+    height: 20px;    
+    text-align: center;
+    line-height: 20px;
+}
