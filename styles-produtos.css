@@ -65,7 +65,7 @@ ul .imagem-produto img {
 }
 
 ul .imagem-produto figcaption {
-    font-family: 'Satisfy', cursive;
+    font-family: 'arial';
     text-align: justify;
     text-shadow: 1px 1px 3px black;
     opacity: 0;
