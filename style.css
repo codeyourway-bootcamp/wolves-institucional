@@ -55,3 +55,10 @@ background-color: #f0dbdb;
    text-align:justify;
    padding: 5%;
 }
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+}
