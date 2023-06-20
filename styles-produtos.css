@@ -14,6 +14,11 @@ padding: 4px;
 list-style-type:none;
 }
 
+.navegacao-link-link{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .navegacao{
     padding: 1%;
     display: flex;
